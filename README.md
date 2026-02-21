@@ -1,1 +1,6 @@
-# task_scheduler_cli_0221
+# Task Scheduler CLI
+
+Berilgan vaqt o'tgach taskni ishga tushiradi.
+
+## Run
+python main.py
